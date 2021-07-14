@@ -1,7 +1,7 @@
 # Portfolio Update
 
 
-Open portfolio: http://meetDru.com
+Open portfolio: http://www.meetdru.com
 
 ---
 
